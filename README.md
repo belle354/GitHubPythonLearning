@@ -40,7 +40,9 @@ git clone https://github.com/YOUR_USERNAME/sample-python-sales-analysis.git
 cd sample-python-sales-analysis
 Run the Python script:
 
-
+bash
+Copy
+Edit
 python analyze_sales.py
 📈 What Does the Script Do?
 The Python script:
@@ -70,4 +72,8 @@ Use Python to automate and simplify data analysis tasks
 Gain hands-on experience with pandas for working with Excel files
 
 Happy learning!
+
+yaml
+Copy
+Edit
 
