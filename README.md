@@ -12,10 +12,6 @@ Welcome to this mini project! In this activity, you'll learn how to:
 
 sample-python-sales-analysis/ ├── analyze_sales.py # Python script to process sales data ├── monthly_sales_2024.xlsx # Sample Excel file with monthly sales └── README.md # You're here!
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Requirements
@@ -33,16 +29,10 @@ Fork this repository into your own GitHub account.
 
 Clone it to your local machine:
 
-bash
-Copy
-Edit
 git clone https://github.com/YOUR_USERNAME/sample-python-sales-analysis.git
 cd sample-python-sales-analysis
 Run the Python script:
 
-bash
-Copy
-Edit
 python analyze_sales.py
 📈 What Does the Script Do?
 The Python script:
@@ -72,8 +62,3 @@ Use Python to automate and simplify data analysis tasks
 Gain hands-on experience with pandas for working with Excel files
 
 Happy learning!
-
-yaml
-Copy
-Edit
-
