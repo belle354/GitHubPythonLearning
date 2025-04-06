@@ -71,10 +71,3 @@ Gain hands-on experience with pandas for working with Excel files
 
 Happy learning!
 
----
-
-Let me know if you’d like this repo pre-created so your team can fork from it, or if you want to build a second activity that builds on this one!
-
-
-
-
